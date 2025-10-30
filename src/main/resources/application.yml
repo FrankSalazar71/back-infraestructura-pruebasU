@@ -1,0 +1,38 @@
+spring:
+     jpa:
+          properties:
+               hibernate:
+                    dialect: org.hibernate.dialect.PostgreSQLDialect
+                    format_sql: "true"
+          hibernate:
+               ddl-auto: update
+          show-sql: "true"
+     datasource:
+          url: jdbc:postgresql://ep-ancient-heart-adqsgk4v-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=prefer&sslcert=&sslkey=&sslrootcert=&sslhostnameverifier=org.postgresql.ssl.NonValidatingFactory
+          username: neondb_owner
+          password: npg_D5vbm4icMYuf
+     jackson:
+          deserialization:
+               fail-on-unknown-properties: false
+               fail-on-null-for-primitives: false
+          serialization:
+               write-dates-as-timestamps: false
+
+springdoc:
+     api-docs:
+          path: /v3/api-docs
+          enabled: true
+
+     swagger-ui:
+          path: /swagger-ui.html
+          try-it-out-enabled: true
+          operations-sorter: method
+          tags-sorter: alpha
+          display-request-duration: true
+          disable-swagger-default-url: true
+
+     show-actuator: false
+
+server:
+     port: "8084"
+     forward-headers-strategy: framework
