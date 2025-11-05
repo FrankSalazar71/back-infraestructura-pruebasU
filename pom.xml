@@ -161,6 +161,17 @@
   <version>3.9.1.2184</version>
 </plugin>
 
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>3.2.5</version>
+                    <configuration>
+                        <!-- Force surefire to use the same java executable as JAVA_HOME to avoid
+                             "compiled by a more recent version" errors when forked JVM differs. -->
+                        <executable>${java.home}/bin/java</executable>
+                    </configuration>
+                </plugin>
+
         </plugins>
     </build>
 

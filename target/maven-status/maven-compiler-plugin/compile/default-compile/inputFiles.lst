@@ -1,30 +1,30 @@
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\application\services\impl\WaterBoxAssignmentService.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\application\services\impl\WaterBoxService.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\application\services\impl\WaterBoxTransferService.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\application\services\IWaterBoxAssignmentService.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\application\services\IWaterBoxService.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\application\services\IWaterBoxTransferService.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\domain\enums\BoxType.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\domain\enums\Status.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\domain\models\WaterBox.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\domain\models\WaterBoxAssignment.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\domain\models\WaterBoxTransfer.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\dto\request\WaterBoxAssignmentRequest.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\dto\request\WaterBoxRequest.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\dto\request\WaterBoxTransferRequest.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\dto\response\WaterBoxAssignmentResponse.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\dto\response\WaterBoxResponse.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\dto\response\WaterBoxTransferResponse.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\dto\StringListConverter.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\exceptions\BadRequestException.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\exceptions\GlobalExceptionHandler.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\exceptions\NotFoundException.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\repository\WaterBoxAssignmentRepository.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\repository\WaterBoxRepository.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\repository\WaterBoxTransferRepository.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\rest\admin\AdminRest.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\rest\client\ClientRest.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\rest\internal\InternalRest.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\rest\superAdmin\SuperAdminRest.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\infrastructure\service\OrganizationService.java
-C:\Users\frank\Desktop\prs1 demo xd\vg-ms-infrastructure-develop (4)\vg-ms-infrastructure-develop\src\main\java\pe\edu\vallegrande\ms_infraestructura\MsInfraestructuraApplication.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/MsInfraestructuraApplication.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/application/services/IWaterBoxAssignmentService.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/application/services/IWaterBoxService.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/application/services/IWaterBoxTransferService.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/application/services/impl/WaterBoxAssignmentService.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/application/services/impl/WaterBoxService.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/application/services/impl/WaterBoxTransferService.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/domain/enums/BoxType.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/domain/enums/Status.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/domain/models/WaterBox.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/domain/models/WaterBoxAssignment.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/domain/models/WaterBoxTransfer.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/dto/StringListConverter.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/dto/request/WaterBoxAssignmentRequest.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/dto/request/WaterBoxRequest.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/dto/request/WaterBoxTransferRequest.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/dto/response/WaterBoxAssignmentResponse.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/dto/response/WaterBoxResponse.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/dto/response/WaterBoxTransferResponse.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/exceptions/BadRequestException.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/exceptions/GlobalExceptionHandler.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/exceptions/NotFoundException.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/repository/WaterBoxAssignmentRepository.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/repository/WaterBoxRepository.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/repository/WaterBoxTransferRepository.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/rest/admin/AdminRest.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/rest/client/ClientRest.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/rest/internal/InternalRest.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/rest/superAdmin/SuperAdminRest.java
+/workspaces/back-infraestructura-pruebasU/src/main/java/pe/edu/vallegrande/ms_infraestructura/infrastructure/service/OrganizationService.java
